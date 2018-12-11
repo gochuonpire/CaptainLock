@@ -1,0 +1,17 @@
+name: CaptainLock
+main: me.captain.lock.CaptainLock
+author: captainawesome7
+version: 1.2
+commands:
+  lock:
+    Description: Do lock stuff
+    Usage: /lock <stuff>
+  unlock:
+    Description: Do unlock stuff
+    Usage: /unlock <stuff>
+  zone:
+    Description: Do zone stuff
+    Usage: /zone <stuff>
+  password:
+    Description: Do password stuff
+    Usage: /password <stuff>
